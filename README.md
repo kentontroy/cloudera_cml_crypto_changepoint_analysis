@@ -65,7 +65,7 @@ decision should be made
 
 ## Streamlit Application spawned by CML
 
-<img src="./images/cml_screenshot" alt=""/><br>
+<img src="./images/cml_screenshot.png" alt=""/><br>
 
 ## Example input for PELT Experiment
 ```
