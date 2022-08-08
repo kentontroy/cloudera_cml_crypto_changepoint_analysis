@@ -63,6 +63,10 @@ decision should be made
 2. Run an experiment with either 2.backtest or 3.naivetest.py as the input script.
 3. Deploy the model using the Change Point Analysis and Bear Market testing`. Specify backtest`as the input function.
 
+## Streamlit Application spawned by CML
+
+<img src="./images/cml_screenshot" alt=""/><br>
+
 ## Example input for PELT Experiment
 ```
 {
@@ -77,7 +81,7 @@ decision should be made
 }
 ```
 
-## Example input for Naive DCA Experiment
+## Example output from Naive DCA Experiment
 ```
 { 
   "Data": "./data/BTC-USD.csv",
